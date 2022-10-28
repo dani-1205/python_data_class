@@ -6,7 +6,7 @@ elif 5 < number < 10:
     print("5보다 크고 10보다 작습니다.")
 else:
     print("10보다 큽니다.")
-
+ 
 
 # Q1. 일상 예제(1)
 money = int(input())
