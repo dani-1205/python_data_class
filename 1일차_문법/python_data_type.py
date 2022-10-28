@@ -60,7 +60,7 @@ print(a[2][1])
 t = ("a", "a", "a", "b")
 print(type(t))
 
-
+ 
 x = {"key1":"value1", "key2":"value2"}
 print(x["key2"])
 
