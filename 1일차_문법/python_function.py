@@ -2,7 +2,7 @@ def name(input):
     print("제 이름은 " + input + "입니다.")
 name("다은")
 
-
+ 
 def name():
     print("이름 함수 호출")
 name()
